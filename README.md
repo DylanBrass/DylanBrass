@@ -1,1 +1,1 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DylanBrass&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DylanBrass&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats&width=1000)
