@@ -2,8 +2,8 @@ name: Update README projects
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # tous les jours à 6h UTC (~1-2h du matin heure de Montréal)
-  workflow_dispatch:        # permet de le lancer manuellement depuis l'onglet Actions
+    - cron: "0 6 * * *"  
+  workflow_dispatch:      
   push:
     branches: [main]
 
