@@ -1,1 +1,61 @@
+<h1 align="center">Salut, moi c'est Dylan 👋</h1>
 
+<p align="center">
+  Étudiant en génie logiciel (ÉTS) • Passionné de systèmes bas niveau, homelab et jeux vidéo
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dylan-brassard-43001428b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧑‍💻 À propos
+
+- 🎓 3e année de génie logiciel à l'**ÉTS**, diplôme prévu en mai 2028
+- 💼 Stages chez **Ubisoft Montréal** (C# / Blazor / Roslyn Analyzers), **Genetec** (Angular 18 / .NET Core 9) et **Desjardins** (Angular / C#)
+- 🛠️ Java, C# et Angular au quotidien — j'aime aussi explorer le C/C++ pour des projets bas niveau
+- 🖥️ Je gère un homelab sur cluster Proxmox et je bricole des projets systèmes (serveur HTTP en C, Kubernetes from scratch, etc.)
+- 🎮 En ce moment je travaille sur une IA pour le jeu Hnefatafl (minimax / alpha-beta) dans le cadre du cours LOG320
+
+---
+
+### 🧰 Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+</p>
+
+---
+
+### 📊 Stats GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DylanBrass&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanBrass&layout=compact&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DylanBrass&hide_border=true&theme=default" />
+</p>
+
+---
+
+### 📌 Dépôts récemment mis à jour
+
+<!--START_PROJECTS-->
+<!--END_PROJECTS-->
+
+<sub>Cette liste se met à jour automatiquement chaque jour via une GitHub Action.</sub>
+
+<p align="center"><i>Merci d'être passé sur mon profil !</i></p>
