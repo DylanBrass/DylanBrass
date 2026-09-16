@@ -37,7 +37,7 @@ jobs:
 
             const emojiFor = (lang) => {
               const map = {
-                'fortran':'📊', 'C': '🇨', 'C++': '💻', 'C#': '🛠️', 'Java': '☕',
+                'Fortran':'📊', 'C': '🇨', 'C++': '💻', 'C#': '🛠️', 'Java': '☕',
                 'TypeScript': '📘', 'JavaScript': '📜', 'Python': '🐍',
                 'HTML': '🖼️', 'ShaderLab': '🎮',
               };
