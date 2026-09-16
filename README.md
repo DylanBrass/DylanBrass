@@ -1,7 +1,5 @@
-<h1 align="center">Salut, moi c'est Dylan 👋</h1>
-
 <p align="center">
-  Étudiant en génie logiciel (ÉTS) • Passionné de systèmes bas niveau, homelab et jeux vidéo
+  Étudiant en génie logiciel (ÉTS)
 </p>
 
 <p align="center">
@@ -9,16 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-### 🧑‍💻 À propos
-
-- 🎓 3e année de génie logiciel à l'**ÉTS**, diplôme prévu en mai 2028
-- 💼 Stages chez **Ubisoft Montréal** (C# / Blazor / Roslyn Analyzers), **Genetec** (Angular 18 / .NET Core 9) et **Desjardins** (Angular / C#)
-- 🛠️ Java, C# et Angular au quotidien — j'aime aussi explorer le C/C++ pour des projets bas niveau
-- 🖥️ Je gère un homelab sur cluster Proxmox et je bricole des projets systèmes (serveur HTTP en C, Kubernetes from scratch, etc.)
-- 🎮 En ce moment je travaille sur une IA pour le jeu Hnefatafl (minimax / alpha-beta) dans le cadre du cours LOG320
 
 ---
 
@@ -32,7 +20,6 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
 </p>
 
