@@ -30,7 +30,7 @@
 ### 📊 Stats GitHub
 
 <p align="center">
-  <img height="165" src="https://readme-stats.benmusicgeek.synology.me/api?username=DylanBrass&show_icons=true&theme=default&hide_border=true&count_private=true&hide=css,html" />
+  <img height="165" src="https://readme-stats.benmusicgeek.synology.me/api?username=DylanBrass&show_icons=true&theme=default&hide_border=true&count_private=true&hide=css,html,javascript" />
   <img height="165" src="https://readme-stats.benmusicgeek.synology.me/api/top-langs/?username=DylanBrass&layout=compact&hide_border=true&theme=default" />
 </p>
 
