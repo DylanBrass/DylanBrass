@@ -32,7 +32,7 @@
 <p align="center">
   <img height="165" src="https://readme-stats.benmusicgeek.synology.me/api?username=DylanBrass&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://readme-stats.benmusicgeek.synology.me/api/top-langs/?username=DylanBrass&layout=compact&hide_border=true&theme=default&hide=dockerfile,tsql,css,html,blade&langs_count=10" />
-  <img height="165" src="https://readme-stats.benmusicgeek.synology.me/api/wakatime?username=Dylan&api_domain=wakapi.benmusicgeek.synology.me&layout=compact&hide_border=true&theme=default&custom_title=Coding%20Time%20per%20languages" />
+  <img height="165" src="https://readme-stats.benmusicgeek.synology.me/api/wakatime?username=Dylan&api_domain=wakapi.benmusicgeek.synology.me&layout=compact&hide_border=true&theme=default&custom_title=Coding%20Time%20per%20languages&cache_bust=1" />
 </p>
 
 <p align="center">
