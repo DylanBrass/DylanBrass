@@ -44,9 +44,9 @@
 ### 📌 Dépôts récemment mis à jour
 
 <!--START_PROJECTS-->
+- 🇨 **[http_server](https://github.com/DylanBrass/http_server)** — A learning project making an HTTP/1.1 server in C
 - 📦 **[DylanBrass](https://github.com/DylanBrass/DylanBrass)**
 - 📊 **[fortran_calculator](https://github.com/DylanBrass/fortran_calculator)** — A learning project on Fortran for a presentation at ETS
-- 🇨 **[http_server](https://github.com/DylanBrass/http_server)** — A learning project making an HTTP/1.1 server in C
 - 💻 **[ESP32-S3-Drum-Kit](https://github.com/DylanBrass/ESP32-S3-Drum-Kit)** — A MIDI drum kit using a ESP32-S3
 - 📜 **[auth0-react-springboot-example](https://github.com/DylanBrass/auth0-react-springboot-example)** — The repo used during my workshops explaining OIDC and how to use Auth0 and other providers.
 <!--END_PROJECTS-->
