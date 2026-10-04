@@ -44,10 +44,10 @@
 ### 📌 Dépôts récemment mis à jour
 
 <!--START_PROJECTS-->
+- 🇨 **[http_server](https://github.com/DylanBrass/http_server)** — A learning project making an HTTP/1.1 server in C
 - 📦 **[DylanBrass](https://github.com/DylanBrass/DylanBrass)**
 - 📦 **[petclinic-monitor](https://github.com/DylanBrass/petclinic-monitor)** — A simple monitor for the URL's of the hosted version of Pet Clinic
 - 📊 **[fortran_calculator](https://github.com/DylanBrass/fortran_calculator)** — A learning project on Fortran for a presentation at ETS
-- 🇨 **[http_server](https://github.com/DylanBrass/http_server)** — A learning project making an HTTP/1.1 server in C
 - 💻 **[ESP32-S3-Drum-Kit](https://github.com/DylanBrass/ESP32-S3-Drum-Kit)** — A MIDI drum kit using a ESP32-S3
 <!--END_PROJECTS-->
 
