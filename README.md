@@ -45,11 +45,11 @@
 ### 📌 Dépôts récemment mis à jour
 
 <!--START_PROJECTS-->
+- 🇨 **[libds](https://github.com/DylanBrass/libds)** — Data structures implemented from scratch in C, built as a reusable static library with CMake.
 - 📦 **[DylanBrass](https://github.com/DylanBrass/DylanBrass)**
 - 🇨 **[http_server](https://github.com/DylanBrass/http_server)** — A learning project making an HTTP/1.1 server in C
 - 📦 **[petclinic-monitor](https://github.com/DylanBrass/petclinic-monitor)** — A simple monitor for the URL's of the hosted version of Pet Clinic
 - 📊 **[fortran_calculator](https://github.com/DylanBrass/fortran_calculator)** — A learning project on Fortran for a presentation at ETS
-- 💻 **[ESP32-S3-Drum-Kit](https://github.com/DylanBrass/ESP32-S3-Drum-Kit)** — A MIDI drum kit using a ESP32-S3
 <!--END_PROJECTS-->
 
 <sub>Cette liste se met à jour automatiquement chaque jour via une GitHub Action.</sub>
