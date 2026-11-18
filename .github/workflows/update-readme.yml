@@ -29,10 +29,11 @@ jobs:
               sort: 'pushed',
               direction: 'desc',
             });
-
-            // Ignore les forks et les dépôts archivés, garde les 5 plus récents
+            
+            const ignored = ['DylanBrass'];
+            
             const top = repos
-              .filter(r => !r.fork && !r.archived)
+              .filter(r => !r.fork && !r.archived && !ignored.includes(r.name))
               .slice(0, 5);
 
             const emojiFor = (lang) => {
